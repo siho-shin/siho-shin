@@ -41,4 +41,4 @@ These are projects that are pretty simple.
 * [Satellite Images to GIF (C#)](https://github.com/Nascity/Satellite-Images-to-GIF)
 
 # Programming Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nascity&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siho-shin&size_weight=0.5&count_weight=0.5)
