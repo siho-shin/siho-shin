@@ -25,7 +25,7 @@ These are the projects I have put relatively more time and effort into.
 * uOS (May 2023 - Feb 2024): A project to create an OS on intel 16 bit, 32 bit, 64 bit processor, consecutively.
   * [unnamedOS16 (C, x86 asm)](https://github.com/Nascity/unnamedOS16) --- May 2023 - Nov 2023
   * unisonOS32 (C, x86 asm) 🛑 --- Dec 2023 - Feb 2024
-* [xv6-riscv-gui](https://github.com/Nascity/xv6-riscv-gui) (Apr 2025 - ): A project to implement GUI in xv6.
+* [xv6-riscv-gui](https://github.com/Nascity/xv6-riscv-gui) (Apr 2025 - Nov 2025): A project to implement GUI in xv6.
 
 ## Small Projects
 These are the projects I made just for fun or as proof-of-concept.
